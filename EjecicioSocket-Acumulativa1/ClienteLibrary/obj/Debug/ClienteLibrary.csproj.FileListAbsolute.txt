@@ -1,0 +1,6 @@
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\bin\Debug\ClienteLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\bin\Debug\ClienteLibrary.pdb
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\obj\Debug\ClienteLibrary.csproj.AssemblyReference.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\obj\Debug\ClienteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\obj\Debug\ClienteLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ClienteLibrary\obj\Debug\ClienteLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\bin\Debug\ServerLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\bin\Debug\ServerLibrary.pdb
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\obj\Debug\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\obj\Debug\ServerLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\ServerLibrary\obj\Debug\ServerLibrary.pdb

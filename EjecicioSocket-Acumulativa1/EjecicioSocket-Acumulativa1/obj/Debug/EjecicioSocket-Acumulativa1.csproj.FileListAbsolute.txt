@@ -1,0 +1,11 @@
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\bin\Debug\EjecicioSocket-Acumulativa1.exe.config
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\bin\Debug\EjecicioSocket-Acumulativa1.exe
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\bin\Debug\EjecicioSocket-Acumulativa1.pdb
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\bin\Debug\ServerLibrary.dll
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\bin\Debug\ServerLibrary.pdb
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.csproj.AssemblyReference.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.csproj.CoreCompileInputs.cache
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.csproj.CopyComplete
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.exe
+C:\Users\Aggasth\Documents\INACAP\Programacion\5. Acumulativa 1\EjecicioSocket-Acumulativa1\EjecicioSocket-Acumulativa1\obj\Debug\EjecicioSocket-Acumulativa1.pdb
